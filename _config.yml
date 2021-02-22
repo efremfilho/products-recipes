@@ -10,7 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Products\' recipes to biuld without a dev.
+description: Products recipes to biuld without a dev.
 author:
   name: Looselyhub
   email: help@looselyhub.com
