@@ -16,10 +16,9 @@ author:
   email: help@looselyhub.com
   twitter: efremfilho
 social:
-  name:Github 
+  name: Treat Template
   links:
-    - https://github.com/looselyhub/looselyhub
-
+    - https://github.com/CloudCannon/treat-jekyll-template
 # -----
 # Build
 
